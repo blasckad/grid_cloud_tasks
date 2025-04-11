@@ -35,7 +35,7 @@ This project demonstrates a simple **microservice setup** using Kubernetes, cons
   - Exposed externally via `LoadBalancer` `Service`
   - Routes responses from backend to users
 
-## 🛠 Kubernetes Resources
+## Kubernetes Resources
 
 - `backend/k8s/deployment.yaml` – Backend deployment with 3 pods
 - `backend/k8s/service.yaml` – Internal ClusterIP service
